@@ -1,6 +1,6 @@
 # ofo-applet
 ofo小程序
-17届愣头青
+17年毕业生
 啥? who am i?来我的[小主页](https://micelid.github.io)呗，或email我：sevenmicelid@gmail.com/2728324441@qq.com
 
 ## 下载源码提示
